@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom';
 
 
 const Contact = () => {
@@ -30,10 +30,10 @@ const Contact = () => {
                         </div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nihil recusandae nisi dicta voluptates delectus atque tempora, placeat tempore ad!</p>
                         <div className="contact-two__social">
-                            <a href="https://twitter.com/" className="fa-brands fa-instagram"></a>
-                            <a href="https://twitter.com/" className="fa-brands fa-facebook-f"></a>
-                            <a href="https://twitter.com/" className="fa-brands fa-skype"></a>
-                            <a href="https://twitter.com/"  className="fa-brands fa-twitter"></a>
+                            <Link className="fa-brands fa-instagram"></Link>
+                            <Link className="fa-brands fa-facebook-f"></Link>
+                            <Link className="fa-brands fa-skype"></Link>
+                            <Link  className="fa-brands fa-twitter"></Link>
                         </div>
                     </div>
                 </div>
