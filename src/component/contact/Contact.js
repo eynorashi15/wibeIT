@@ -97,7 +97,7 @@ const Contact = () => {
         </div>
     </section>
     <section className="contact-map-section">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14720.27036209313!2d75.89415!3d22.725729!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fd0973a4e817%3A0xec60df8b9cbfbced!2sEynoSoft%20Private%20Limited!5e0!3m2!1sen!2sin!4v1679576123731!5m2!1sen!2sin" 
+        <iframe title="myFrame" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14720.27036209313!2d75.89415!3d22.725729!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fd0973a4e817%3A0xec60df8b9cbfbced!2sEynoSoft%20Private%20Limited!5e0!3m2!1sen!2sin!4v1679576123731!5m2!1sen!2sin" 
                width="100%" height="450" 
                style={{ border: "0" }}
                allowfullscreen=""
