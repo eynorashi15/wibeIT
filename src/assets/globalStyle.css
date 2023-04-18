@@ -396,8 +396,12 @@ a,a:hover{
     color: var(--orange-color);
     border: 2px solid var(--orange-color);
 }
+.services-bg .services-row .single-services-box .services-heading {
+    height: 80px;
+}
 .services-bg .services-row .single-services-box p{
     margin-bottom: 30px;
+    height: 130px;
 }
 .services-bg .services-row .single-services-box.box-2 .icon{
     background-color:#937ec973 !important;
