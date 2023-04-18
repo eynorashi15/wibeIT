@@ -53,13 +53,16 @@ a,a:hover{
 }
 
 .navbar {
-    background-color: #fff;
+    background-color: #fff0;
     padding-top: 15px;
     padding-bottom: 15px;
     font-size: 1.2rem;
-    position: sticky;
+    /* position: sticky; */
+    position: absolute;
     top: 0;
     z-index: 20;
+    margin-top: 55px;
+    width: 100%;
   }
   
   .nav-container {
@@ -71,7 +74,7 @@ a,a:hover{
   }
   .navbar .nav-container .nav-logo{
     width: 150px;
-    background-color: #0D0808;
+    /* background-color: #0D0808; */
     padding: 5px;
   }
   .navbar .nav-container .nav-logo img{
