@@ -12,6 +12,7 @@ const FrontSlider = () => {
         speed: 500,
         arrows: false,
         fade: true,
+        autoplay:true,
         slidesToShow: 1,
         slidesToScroll: 1
       };

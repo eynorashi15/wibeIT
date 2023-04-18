@@ -94,7 +94,7 @@ a,a:hover{
   }
   
   .nav-links {
-    color: var(--dark-color);
+    color: var(--white-color);
     text-decoration: none;
     height: 100%;
     border-bottom: 3px solid transparent;
