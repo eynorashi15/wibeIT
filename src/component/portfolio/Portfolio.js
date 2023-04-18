@@ -13,7 +13,7 @@ const Portfolio = () => {
            <div className="text-center">
                 <div className="heading-section">
                 <span className="section-sub-title"># Our Portfolio</span>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam rerum quo sapiente? Ullam quasi iusto dolores libero optio blanditiis aliquam!</p>
+                <p>"Collaboration and diversity are key ingredients to creating innovative solutions. At our company,we believe in the power of bringing together talented individuals from diverse backgrounds, and learning from one another to deliver the best results for our clients."</p>
                 </div>
            </div>
 

@@ -1,6 +1,7 @@
 import React from 'react'
 import About from '../about/About'
 
+
 const AboutListing = () => {
   return (
    <>
@@ -18,6 +19,12 @@ const AboutListing = () => {
          </div>
     </section>
      <About />
+   
+   <section className='section about-page'>
+       <div className=''></div>
+  
+   </section>
+
    
     
    </>

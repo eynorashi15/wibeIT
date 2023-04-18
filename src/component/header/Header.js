@@ -14,7 +14,7 @@ const Header = () => {
                     <div className="container">
                         <div className="row topbar-row">
                             <div className="topbar-left ">
-                                <div className="d-flex mr-1 ml-1 text-left">
+                                <div className="d-flex mr-1 ml-1 text-left align-items-center justify-content-center">
                                     <span className="material-symbols-outlined">mail</span>
                                     <span>http://Info@example.com</span>
                                 </div>
