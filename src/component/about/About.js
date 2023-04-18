@@ -23,7 +23,7 @@ const About = () => {
                         <span className="section-sub-title"># ABOUT COMPANY</span>
                         <h5 className="about-title">We Execute Our Ideas <br/>
                              The Start To Finish</h5>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni ab reiciendis ut est velit architecto quas praesentium dolor tenetur omnis.</p>
+                        <p>At our company, we offer a wide range of services, including custom software development, web development, mobile app development and IT consulting. We understand that every business has unique needs, and we work closely with our clients to deliver customized solutions that meet their specific requirements.</p>
                      </div>
                      <Link to="" className="about-btn">Read More</Link>
                 </div>
