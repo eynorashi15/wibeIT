@@ -53,15 +53,15 @@ a,a:hover{
 }
 
 .navbar {
-    background-color: #fff0;
+    background-color: #fff;
     padding-top: 15px;
     padding-bottom: 15px;
     font-size: 1.2rem;
-    /* position: sticky; */
-    position: absolute;
+    position: sticky;
+    /* position: absolute; */
     top: 0;
     z-index: 20;
-    margin-top: 55px;
+    /* margin-top: 55px; */
     width: 100%;
   }
   
@@ -94,7 +94,7 @@ a,a:hover{
   }
   
   .nav-links {
-    color: var(--white-color);
+    color: var(--dark-color);
     text-decoration: none;
     height: 100%;
     border-bottom: 3px solid transparent;
@@ -714,6 +714,7 @@ ul.slick-dots{
     text-align: center;
     border: 1px solid #f4f5f8;
     margin-bottom: 20px;
+    height: 150px;
 }
 .contact-page-info .contact-info-card span{
     font-size: 25px;
@@ -723,7 +724,7 @@ ul.slick-dots{
 }
 .contact-page-info .contact-info-card a{
     color: var(--dark-color);
-    font-size: 20px;
+    font-size: 15px;
 }
 .contact-page-info{
     position: absolute;
@@ -845,6 +846,9 @@ footer .footer-section .footer-logo{
 footer .footer-section .footer-logo img{
     width: 100%;
     height: 100%;
+}
+footer .footer-section .footer-content .footer-para{
+    color: var(--white-color);
 }
 .topnav{
     display: none;

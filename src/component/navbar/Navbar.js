@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import "../../assets/globalStyle.css";
-import Logomain from "../../assets/images/logo-2.png";
+import Logomain from "../../assets/images/wibeit-logo.svg";
 
 function NavBar() {
   const [click, setClick] = useState(false);

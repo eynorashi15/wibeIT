@@ -78,19 +78,21 @@ const Contact = () => {
                 <div className="col-lg-4 col-md-12">
                     <div className="contact-info-card">
                         <span className="material-symbols-outlined">location_on</span>
-                        <a href={url}>xyzzz</a>
+                        <a href={url}>301-A The Mark Building, Above Domino’s.
+                                Saket square, Old Palasia,
+                                Indore (M.P.) India.</a>
                     </div>
                 </div>
                 <div className="col-lg-4 col-md-12">
                     <div className="contact-info-card">
                         <span className="material-symbols-outlined">mail</span>
-                        <a href={url}>6xyzzzzzzzzz</a>
+                        <a href={url}> eynosoft@gmail.com</a>
                     </div>
                 </div>
                 <div className="col-lg-4 col-md-12">
                     <div className="contact-info-card">
                         <span className="material-symbols-outlined">phone_enabled</span>
-                        <a href={url}>6123654789</a>
+                        <a href={url}>+91-9977150581, +91-9893399778</a>
                     </div>
                 </div>
             </div>
