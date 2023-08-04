@@ -15,16 +15,13 @@ const Footer = () => {
 
                     <div className="col-lg-4">
                         <div className="footer-content">
-                        <h6 className="footer-title">COMPANY</h6>
-                        <p className='footer-para'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                             Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-
-
+                           <h6 className="footer-title">COMPANY</h6>
+                           <p className='footer-para'>Welcome to our IT company! We are a team of highly skilled professionals dedicated to providing innovative and effective IT solutions to businesses of all sizes.</p>
                         </div>
                     </div> 
 
                     <div className="col-lg-4">
-                            <div className="footer-content">
+                            <div className="footer-content footer-mid-col">
                                 <h6 className="footer-title">USEFUL LINKS</h6>
                                 <ul className="footer-nav-links">
                                     <li><a  href={url}>HOME</a></li>

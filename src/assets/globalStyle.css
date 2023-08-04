@@ -15,7 +15,6 @@ h1,h2,h3,h4,h5,h6{
 }
 a,a:hover{
     text-decoration: none;
-
 }
  .topbar{
     background-color: var( --dark-color);
@@ -277,6 +276,7 @@ a,a:hover{
 }
 .about-section .about-us-content{
     margin-bottom: 30px;
+    text-align: left;
 }
 .about-section .about-us-content h5.about-title{
     font-weight: 600;
@@ -549,6 +549,7 @@ a,a:hover{
 .testimonial-area .testimonial-area-content{
     padding: 20px;
     padding-top: 50px;
+    text-align: left;
 }
 
 .testimonial-area .details .test-auth-name{
@@ -593,7 +594,13 @@ ul.slick-dots{
     flex-shrink: 0;
     justify-content: center;
 } 
-
+.testimonial-area .testimonial-area-slider .testimonial-auth-info img{
+    height: 70px;
+    height: 70px;
+}
+.testimonial-area .testimonial-area-slider{
+    text-align: left;
+}
 
 /* contact-page */
 
@@ -713,7 +720,7 @@ ul.slick-dots{
     padding: 40px 30px;
     text-align: center;
     border: 1px solid #f4f5f8;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     height: 150px;
 }
 .contact-page-info .contact-info-card span{
@@ -847,6 +854,12 @@ footer .footer-section .footer-logo img{
     width: 100%;
     height: 100%;
 }
+footer .footer-section .footer-content{
+    text-align: left;
+}
+footer .footer-section .footer-content.footer-mid-col{
+    padding-left: 100px;
+}
 footer .footer-section .footer-content .footer-para{
     color: var(--white-color);
 }
@@ -930,6 +943,7 @@ footer .footer-section .footer-content .footer-para{
     
     .about-section .about-us-content{
        padding-top: 30px;
+       text-align: left;
     }
     .client-section .cleint-row{
         display: flex;
